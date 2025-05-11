@@ -4,4 +4,4 @@ To create an interactive dashboard using the  `weight-height dataset` to analyse
 ## Project Overview
 
 #### Step 1
-Imported csv.file to Power BI
+Imported `csv.file` to Power BI
