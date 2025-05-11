@@ -8,3 +8,7 @@ The dataset includes fields such as `gender`, `height`, `weight` and `born_year`
 Imported csv.file to Power BI.
 ### Data Cleaning
 Filtered the `born_year` column to remove null values.
+=======
+#### Step 1
+Imported `csv.file` to Power BI
+
